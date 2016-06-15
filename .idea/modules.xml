@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Coursera_CSS.iml" filepath="$PROJECT_DIR$/Coursera_CSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WebSandbox/WebSandbox.iml" filepath="$PROJECT_DIR$/../WebSandbox/WebSandbox.iml" />
     </modules>
   </component>
 </project>
